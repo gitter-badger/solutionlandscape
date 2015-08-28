@@ -8,10 +8,16 @@ Examples of Ruby code.
 * CLI      - optparse
 * Embedded - mruby
 
+Thoughts
+--------------
+
+* Good code is like good English, clear and concise.
+* You can build anything with Ruby.
+* If a developer was an island he'd want the tools to survive.
+
 TODO
 --------------
 
-+ draft 3 actionable takeaway points
 + draft 2 examples for each point (6)
 + build example Rails web app
 + build example Rubymotion mobile app
