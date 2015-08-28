@@ -18,7 +18,6 @@ Thoughts
 TODO
 --------------
 
-+ draft 2 examples for each point (6)
 + build example Rails web app
 + build example Rubymotion mobile app
 + build example desktop Gosu game
