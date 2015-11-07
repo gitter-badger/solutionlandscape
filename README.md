@@ -1,4 +1,6 @@
 # Welcome to Solution Landscape <br/><small>we are examples of ruby code.</small></br>
+
+[![Join the chat at https://gitter.im/wurde/solutionlandscape](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/wurde/solutionlandscape?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
 [![Stories in Ready](https://badge.waffle.io/wurde/solutionlandscape.svg?label=ready&title=Ready)](http://waffle.io/wurde/solutionlandscape)
 
 * Web      - rails
