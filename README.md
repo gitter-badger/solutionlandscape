@@ -1,4 +1,5 @@
 # Welcome to Solution Landscape <br/><small>we are examples of ruby code</small></br>
+[![Stories in Ready](https://badge.waffle.io/wurde/solutionlandscape.svg?label=ready&title=Ready)](http://waffle.io/wurde/solutionlandscape)
 
 * Web      - rails
 * Mobile   - rubymotion
