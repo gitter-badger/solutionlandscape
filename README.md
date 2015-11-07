@@ -23,3 +23,7 @@ TODO
 + build example desktop Gosu game
 + build example command-line app
 + build example embedded system
+
+License
+--------------
+Solution Landscape is released under the [MIT License](http://www.opensource.org/licenses/MIT).
